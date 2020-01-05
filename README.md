@@ -1,18 +1,14 @@
 # Training-Snake-Mouse-Game-Using-Genetic-Algorithm
 
-main.py -  to start training snake game using genetic algorithm
+main.py -  to start training snake mouse game using genetic algorithm.
 
-Snake_Game.py  -  contains logic of creating snake game using pygame
+Snake_Game.py  -  contains logic of creating snake game using pygame.
 
-Run_Game.py  -  play snake game using predicted directions from genetic algorithm
+Run_Game.py  -  play snake game using predicted directions from genetic algorithm.
 
 Genetic_Algorithm.py  -  contains genetic algorithm functions like crossover, mutation etc
 
 Feed_Forward_Neural_Network.py  -  contains the functions for calculating the output from feed forward neural network
 
-To know more about algorithm used in this code you can follow this blog https://theailearner.com/2018/11/09/snake-game-with-genetic-algorithm/
+To know more about algorithm used in this code you can follow this blog.
 
-
-# License & Copyright
-
-Licensed under the [MIT License](LICENSE).
