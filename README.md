@@ -1,4 +1,5 @@
-# Training-Snake-Mouse-Game-Using-Genetic-Algorithm
+# AI-Snake-Mouse-Game
+
 
 main.py -  to start training snake mouse game using genetic algorithm.
 
@@ -10,5 +11,4 @@ Genetic_Algorithm.py  -  contains genetic algorithm functions like crossover, mu
 
 Feed_Forward_Neural_Network.py  -  contains the functions for calculating the output from feed forward neural network
 
-To know more about algorithm used in this code you can follow this blog.
 
