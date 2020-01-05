@@ -1,7 +1,7 @@
 # AI-Snake-Mouse-Game
 
 
-main.py -  to start training snake mouse game using genetic algorithm.
+Main.py -  to start training snake mouse game using genetic algorithm.
 
 Snake_Game.py  -  contains logic of creating snake game using pygame.
 
