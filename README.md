@@ -15,8 +15,7 @@ Run_Game_Mouse.py  -  play Mouse game using predicted directions from genetic al
 Genetic_Algorithm.py  -  contains genetic algorithm functions like crossover, mutation etc
 
 Feed_Forward_Neural_Network.py  -  contains the functions for calculating the output from feed forward neural network
-## Jupyter notebooks ##
-To visualize the jupyter notebooks content, you can use the links below.
+
 
 
 ## Dependencies ##
