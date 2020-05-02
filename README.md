@@ -50,8 +50,8 @@ If you are using pipenv:
 ## Authors ##
 
 * Jihen Bouguerra 
-  * Github: [jihenBouguerra](https://github.com/jihenBouguerra).
-  * Email: [boujihen](mailto:boujihen647@gmail.com).
+* Github: [jihenBouguerra](https://github.com/jihenBouguerra).
+* Email: [boujihen](mailto:boujihen647@gmail.com).
   
 
 
